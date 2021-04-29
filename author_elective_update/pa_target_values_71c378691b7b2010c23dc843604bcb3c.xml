@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values">
+    <pa_target_values action="DELETE">
+        <sys_class_name>pa_target_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 08:53:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71c378691b7b2010c23dc843604bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1300</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_target_values_71c378691b7b2010c23dc843604bcb3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 08:53:19</sys_updated_on>
+        <target display_value="NeedIt: Active Weekly">fdc3f4691b7b2010c23dc843604bcb09</target>
+        <target_at>20210426</target_at>
+        <target_review>00000000</target_review>
+        <value>1300</value>
+    </pa_target_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>299af702db9be4909a4dcac5059619b4</instance_id>
+        <instance_name>dev110428</instance_name>
+        <name>pa_target_values_71c378691b7b2010c23dc843604bcb3c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_target_values"><pa_target_values action="INSERT_OR_UPDATE"><sys_class_name>pa_target_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-04-28 08:53:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>71c378691b7b2010c23dc843604bcb3c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1300</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_target_values_71c378691b7b2010c23dc843604bcb3c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-04-28 08:53:19</sys_updated_on><target display_value="NeedIt: Active Weekly">fdc3f4691b7b2010c23dc843604bcb09</target><target_at>20210426</target_at><target_review>00000000</target_review><value>1300</value></pa_target_values></record_update>]]></payload>
+        <payload_hash>223522485</payload_hash>
+        <record_name>1300</record_name>
+        <reverted_from/>
+        <source>d0a8dfd01b672010c23dc843604bcb9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 08:53:20</sys_created_on>
+        <sys_id>fdc378691b7b2010c23dc843604bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17917aec4310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 08:53:20</sys_updated_on>
+        <type>Target value</type>
+        <update_guid>39c37869467b2010b4d7e6a8771df940</update_guid>
+        <update_guid_history>39c37869467b2010b4d7e6a8771df940:223522485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1,300">9ce374691b7b2010c23dc843604bcb9c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-28 08:53:45</sys_created_on>
+        <sys_db_object display_value="" name="pa_target_values">pa_target_values</sys_db_object>
+        <sys_id>63a0f0b6b2df4466b9c5a64aea671b84</sys_id>
+        <sys_metadata>71c378691b7b2010c23dc843604bcb3c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1300</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="e951d0881b332010c23dc843604bcb22">fdc3f4691b7b2010c23dc843604bcb09</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_target_values_71c378691b7b2010c23dc843604bcb3c</sys_update_name>
+        <sys_update_version display_value="pa_target_values_71c378691b7b2010c23dc843604bcb3c">fdc378691b7b2010c23dc843604bcb40</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-28 08:53:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
